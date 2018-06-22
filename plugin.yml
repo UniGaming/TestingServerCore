@@ -1,0 +1,15 @@
+main: me.loganispg.main.Main
+name: TestingServerCore
+description: Core plugin.
+version: 1.0
+commands:
+  heal:
+    description: Heal yourself.
+  feed:
+    description: Feed yourself.
+  gm:
+    description: Change your gamemode.
+  god:
+    description: Make yourself invulnerable to hostile mobs.
+  ungod:
+    description: Make yourself vulnerable to hostile mobs.
